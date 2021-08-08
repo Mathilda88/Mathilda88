@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mathilda, 
-- 👀 I’m interested in Machin learning and computer graphics. I have 3 years experience working in academia and industry on different algorithms especially on bringing the pure methods in machion learning and its real world applications together
+- 👀 I’m interested in Machin learning and computer graphics. I have 3 years experience working in academia and industry on different algorithms especially on bringing the pure methods in machion learning and their real world applications together
 - 🌱 I’m currently learning SQL, don't make fun of it, I didn't take it when I was at colledge 
 
 
